@@ -3,7 +3,6 @@ It defines a list of dictionaries, where each dictionary represents a question
 with its type, difficulty, category, question text, correct answer, and
 incorrect answers. The data is used to create Question objects in the main
 script of the quiz game."""
-
 question_data = [
     {
         "type": "boolean",
